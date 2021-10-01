@@ -34,3 +34,18 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt=" DuongQuocNam streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DQNam2202&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+## 📊 My Github Stat:
+
+  <br/>
+    <a href="https://github.com/DQNam2202/github-readme-stats"><img alt="DuongQuocNam Github Stats" src="https://github-readme-stats.vercel.app/api?username=DQNam2202&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/DQNam2202/github-readme-stats"><img alt="DuongQuocNam Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DQNam2202&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<br/>
+<br/>
+
+<a href="https://github.com/DQNam2202/github-readme-activity-graph"><img alt="DuongQuocNam Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DQNam2202&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
