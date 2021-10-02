@@ -1,4 +1,3 @@
-
 <a href="#"><img width="100%" height="auto" src="https://ouch-cdn2.icons8.com/tToRvzJ5tdit8JfWE1vkOKHID9rjfRgBlPhr3KATxE4/rs:fit:1368:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvOTgw/LzhkNTIwZmEyLTAz/OTEtNGY4Ni1iM2Ew/LTlkOGU5NGQ1Mzc0/NS5zdmc.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dương Quốc Nam</h1>
@@ -13,6 +12,13 @@
 - 📫 How to reach me **duongquocnam224400@gmail.com**
 
 - ⚡ Fun fact **I play badmintion and reading book very often.**
+  <br/>
+  <br/>
+  <a href="https://github.com/DQNam2202/github-profile-views-counter">
+  <img src="https://komarev.com/ghpvc/?username=DQNam2202">
+  </a>
+  <a href="https://github.com/DQNam2202?tab=followers"><img src="https://img.shields.io/github/followers/DQNam2202?label=Followers&style=social" alt="GitHub Badge"></a>
+  <br/>
 
 ## 🚀 Languages and Tools:
 
